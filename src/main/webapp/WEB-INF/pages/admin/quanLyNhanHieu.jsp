@@ -59,7 +59,7 @@
 										class="form-control" id="id" />
 								</div>
 								<div class="form-group">
-									<label for="name">Tên hãng sản xuất:</label> <input type="text"
+									<%--@declare id="name"--%><label for="name">Tên hãng sản xuất:</label> <input type="text"
 										class="form-control" id="tenHangSanXuat" placeholder="Nhập vào tên hãng sản xuất" required />
 								</div>
 								

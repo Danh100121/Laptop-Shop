@@ -39,7 +39,7 @@
 				</div>
 			</div>
 			<div class="form-group row">
-				<label for="staticEmail" class="col-sm-2 col-form-label">Họ
+				<%--@declare id="staticemail"--%><label for="staticEmail" class="col-sm-2 col-form-label">Họ
 					Tên</label>
 				<div class="col-sm-10">
 					<input type="text" readonly class="form-control-plaintext"
